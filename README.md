@@ -2,3 +2,7 @@
 
 # Simple-Landing-page-with-documentation
 Simple landing page with documentation.
+
+# Usage
+ - Fork or download this project
+ - Edit the HTML file and add your own twist to it with the style.css file
